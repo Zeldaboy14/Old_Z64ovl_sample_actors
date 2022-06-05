@@ -1,0 +1,1 @@
+630 and 650 in the original object needs the DA commands nulled to 00 to function properly
